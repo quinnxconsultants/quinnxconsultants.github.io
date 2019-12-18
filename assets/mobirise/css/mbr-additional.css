@@ -1551,9 +1551,47 @@ section.lazy-placeholder:after {
 .cid-rgpMhFHeuS H5 {
   color: #2e2e2e;
 }
-.cid-rgpN3Vqckd {
-  padding-top: 15px;
+.cid-rKYmg7WzeV {
+  padding-top: 0px;
   padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rKYmg7WzeV .title {
+  padding-bottom: 2.5rem;
+}
+.cid-rKYmg7WzeV .mbr-text {
+  color: #232323;
+  margin: 0;
+  padding-top: 0.5rem;
+}
+.cid-rKYmg7WzeV .iconfont-wrapper {
+  display: flex;
+  align-items: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: 2rem;
+}
+.cid-rKYmg7WzeV .iconfont-wrapper .amp-iconfont {
+  font-size: 2.5rem;
+}
+.cid-rKYmg7WzeV .wrapper {
+  display: flex;
+  padding: 1rem 0;
+}
+.cid-rKYmg7WzeV .wrapper .b-info {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rKYmg7WzeV .iconfont-wrapper {
+    display: none;
+  }
+}
+.cid-rKYmg7WzeV H5 {
+  text-align: left;
+}
+.cid-rgpN3Vqckd {
+  padding-top: 0px;
+  padding-bottom: 45px;
   background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-rgpN3Vqckd .mbr-iconfont-social {
@@ -2875,6 +2913,143 @@ section.lazy-placeholder:after {
 }
 .cid-rwHLr6LJLg {
   background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rKYjUUwDpr {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rKYjUUwDpr .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rKYjUUwDpr .mbr-content-text {
+  color: #767676;
+}
+.cid-rKYjUUwDpr .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-rKYjUUwDpr .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
+}
+.cid-rKYjUUwDpr .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+.cid-rKYjUUwDpr .media-block {
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .cid-rKYjUUwDpr .media-block {
+    padding-right: 2rem;
+  }
+}
+.cid-rKYjUUwDpr .cards-block {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-rKYjUUwDpr .card-img {
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+@media (max-width: 991px) {
+  .cid-rKYjUUwDpr .media-block {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+    padding-left: 0;
+    padding-bottom: 2rem;
+  }
+}
+.cid-rKYjZX4XLn {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rKYjZX4XLn .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-rKYjZX4XLn .mbr-content-text {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-rKYjZX4XLn .card {
+  word-wrap: break-word;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .cid-rKYjZX4XLn .cards-block {
+    border-top: 2px solid #efefef;
+  }
+}
+.cid-rKYjZX4XLn .cards-block .card {
+  border-bottom: 2px solid #efefef;
+  border-radius: 0;
+}
+.cid-rKYjZX4XLn .cards-container {
+  display: flex;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  word-break: break-word;
+}
+.cid-rKYjZX4XLn .media-block {
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .cid-rKYjZX4XLn .media-block {
+    padding-left: 2rem;
+  }
+}
+.cid-rKYjZX4XLn .cards-block {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+@media (max-width: 991px) {
+  .cid-rKYjZX4XLn .media-block {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+    padding-left: 0;
+    padding-bottom: 2rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-rKYjZX4XLn .count {
+    width: 100px;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rKYjZX4XLn .panel-item {
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+  .cid-rKYjZX4XLn .card-img {
+    padding-bottom: 1rem;
+    padding-right: 0 !important;
+    margin: auto;
+  }
+}
+.cid-rKYjZX4XLn .media-container-row {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
 }
 .cid-rgpHAZsNwO .navbar {
   background: #ffffff;
